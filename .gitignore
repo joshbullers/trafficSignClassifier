@@ -1,3 +1,4 @@
+Data/*.zip
 *.zip
 data
 .ipynb_checkpoints
