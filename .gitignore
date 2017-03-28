@@ -1,4 +1,4 @@
-Data/traffic-signs-data.zip
+*.zip
 data
 .ipynb_checkpoints
 *.h5
