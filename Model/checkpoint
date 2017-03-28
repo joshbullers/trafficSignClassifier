@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/carnd/CarND-Traffic-Sign-Classifier-Project/Model/ggnet"
+all_model_checkpoint_paths: "/home/carnd/CarND-Traffic-Sign-Classifier-Project/Model/ggnet"
